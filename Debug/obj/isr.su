@@ -1,0 +1,2 @@
+isr.c:52:6:SecAdd1	0	static
+isr.c:21:6:TIM7_IRQHandler	8	static
